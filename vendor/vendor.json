@@ -119,8 +119,8 @@
 		{
 			"checksumSHA1": "66iQbxUhUQuur+pyVwdK4IqFYXs=",
 			"path": "github.com/mailhog/MailHog-UI/web",
-			"revision": "2ed49d703422c00c734882808bec9872cb8fc6ce",
-			"revisionTime": "2016-07-10T18:14:28Z"
+			"revision": "bb034fed0530baa12c3a9fae44b8aef39b370c3b",
+			"revisionTime": "2016-11-15T21:43:29Z"
 		},
 		{
 			"checksumSHA1": "ZhN2RVIK/L9LO9WGjducyi2buIk=",
@@ -219,5 +219,5 @@
 			"revisionTime": "2016-08-01T21:38:24Z"
 		}
 	],
-	"rootPath": "github.com/mailhog/MailHog"
+	"rootPath": "github.com/cameronbraid/MailHog"
 }
